@@ -1,4 +1,7 @@
 <p align="center">
+  <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=huilin659.Awesome-Game-Resources" alt="访客计数" />
+</p>
   <img src="https://via.placeholder.com/800x200/0D1117/FFFFFF?text=🎮+Ultimate+Game+Resource+Hub" alt="游戏资源宝库" />
 </p>
 
